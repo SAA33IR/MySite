@@ -40,7 +40,7 @@ h3 {
   font-size: 2rem;
 }
 h4 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 p.lead {
   font-size: 1.15rem;
@@ -76,29 +76,34 @@ p.lead {
 .project {
   display: inline-flex;
   border: 1px solid gray;
-  height: 5rem;
-  width: 27rem;
-  margin: 0.2rem 0.2rem 0.2rem 0.2rem;
+  height: 4.5rem;
+  width: 24.27rem;
+  margin: 0.2rem 1rem 0.2rem 0rem;
   border-radius: 3rem 3rem 3rem 3rem;
 }
 
 .p-img {
+  width: 3.5rem;
+  height: 3.5em;
+  border: 1px solid gray;
   border-radius: 50%;
 }
 
 .p-icon {
-  margin: 0.25rem 0.25rem 0.25rem 0.25rem;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 0.49rem;
 }
 
 .p-name {
   margin-left: 0.7rem;
   margin-top: auto;
   margin-bottom: auto;
-  width: 12.5rem;
+  width: 11.2rem;
 }
 
 .p-link {
-  margin-right: 0.5rem;
+  margin-right: 0.49rem;
   margin-top: auto;
   margin-bottom: auto;
 }
@@ -114,7 +119,7 @@ p.lead {
   text-align: center;
   font-size: 1.5rem;
   line-height: 3.5rem;
-  margin-right: 0.7rem;
+  margin-right: 0.5rem;
 }
 .social-icons a:last-child {
   margin-right: 0;
