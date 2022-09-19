@@ -39,6 +39,9 @@ h2 {
 h3 {
   font-size: 2rem;
 }
+h4 {
+  font-size: 1.8rem;
+}
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
@@ -73,8 +76,8 @@ p.lead {
 .project {
   display: inline-flex;
   border: 1px solid gray;
-  height: 6rem;
-  width: 31.5rem;
+  height: 5rem;
+  width: 27rem;
   margin: 0.2rem 0.2rem 0.2rem 0.2rem;
   border-radius: 3rem 3rem 3rem 3rem;
 }
@@ -84,18 +87,18 @@ p.lead {
 }
 
 .p-icon {
-  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  margin: 0.25rem 0.25rem 0.25rem 0.25rem;
 }
 
 .p-name {
-  margin-left: 1rem;
+  margin-left: 0.7rem;
   margin-top: auto;
   margin-bottom: auto;
-  width: 15rem;
+  width: 12.5rem;
 }
 
 .p-link {
-  margin-right: 1rem;
+  margin-right: 0.5rem;
   margin-top: auto;
   margin-bottom: auto;
 }
@@ -111,7 +114,7 @@ p.lead {
   text-align: center;
   font-size: 1.5rem;
   line-height: 3.5rem;
-  margin-right: 1rem;
+  margin-right: 0.7rem;
 }
 .social-icons a:last-child {
   margin-right: 0;
